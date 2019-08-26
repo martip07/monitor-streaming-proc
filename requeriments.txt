@@ -1,0 +1,13 @@
+boto3
+boto
+awscli
+uuid
+redis
+click
+rq
+rq-dashboard
+rethinkdb
+pygal
+cairosvg
+requests
+netifaces
